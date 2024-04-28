@@ -295,5 +295,3 @@ group by jobtitle
 select * from #temp_employee
 execute temp_employee
 
-/*sub query
-*/
